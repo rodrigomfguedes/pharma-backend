@@ -32,3 +32,10 @@ To run the project in your local environment, after installing the dependencies.
 The application should start and you should be able to access it at [http://localhost:8000](http://localhost:8000) in your browser.
 
 Access the /docs endpoint to retrieve all the available endpoints
+
+### OpenAI key
+
+Setup your OpenAI key in a .env file within the project root.
+
+Example:
+OPENAI_API_KEY=sk-proj-aW3LABKhJd4...
